@@ -35,7 +35,7 @@ This aggressive feature reduction improved model interpretability, reduced overf
 
 The task was modeled primarily as a regression problem, rather than classification, to better capture the ordinal nature of essay scores.
 
-**🔹 Gradient Boosting Regressor (Best Model)**
+**🔹 Gradient Boosting Regressor (Best Model):**
 
 Quadratic Weighted Kappa (QWK): 0.9595
 
