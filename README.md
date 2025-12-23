@@ -41,9 +41,7 @@ Quadratic Weighted Kappa (QWK): 0.9595
 
 RMSE: 0.9264
 
-**🔹 Baseline / Comparison Models**
-
-**K-Nearest Neighbors (Classifier):**
+**🔹 K-Nearest Neighbors (Baseline Classifier):**
 
 QWK: 0.6266
 
